@@ -1,9 +1,10 @@
-# 💫 Dhananjay Salwe
+# 👋 Hey, I'm Dhananjay Salwe
 
 ### Full Stack Developer | AI/ML Builder | Cyber Security Focused
 
 ![Role](https://img.shields.io/badge/Role-Full%20Stack%20Developer-0A66C2?style=for-the-badge)
 ![Experience](https://img.shields.io/badge/Experience-1%2B%20Year-16A34A?style=for-the-badge)
+![GPA](https://img.shields.io/badge/B.Tech%20GPA-9.00%2F10-9333EA?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location-Nashik%2C%20India-EA580C?style=for-the-badge)
 ![Open To Work](https://img.shields.io/badge/Open%20to-Remote%20%7C%20Freelance-7C3AED?style=for-the-badge)
 
@@ -13,15 +14,20 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/dhananjay-salwe)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=FF7139)](https://dhananjaysalwe.dev)
 
+## 📝 Profile Summary
+I build practical, high-impact products across web and AI.
+My work combines strong backend engineering (Spring Boot, Laravel, Flask), modern frontend delivery (React, Angular), and security-first thinking.
+I have shipped production projects including attendance platforms, embeddable face-recognition widgets, and resume-verification systems, with measurable outcomes like lower manual effort, faster APIs, and reliable real-time processing.
+
 ## 🧭 Snapshot
 ```mermaid
 flowchart LR
-    A[You] --> B[Full Stack Apps]
-    A --> C[AI/CV Systems]
-    A --> D[Secure APIs]
-    B --> E[React / Angular / Laravel / Spring]
-    C --> F[OpenCV / Liveness / Anti-spoofing]
-    D --> G[Auth / Domain Security / Rate Limiting]
+    A[Dhananjay] --> B[Full Stack Products]
+    A --> C[AI + Computer Vision]
+    A --> D[Secure API Systems]
+    B --> E[React | Angular | Laravel | Spring]
+    C --> F[OpenCV | Liveness | Anti-spoofing]
+    D --> G[Auth | Domain Security | Rate Limits]
 ```
 
 ## 📊 Impact (Quick View)
@@ -42,10 +48,10 @@ flowchart LR
 | **Face Recognition Kiosk** | Liveness + anti-spoofing authentication | Flask, OpenCV, MediaPipe |
 | **DataAuth** | Resume authenticity verification system | Laravel, RapidAPI, MySQL |
 
-### Project Links
-- Attendo: https://github.com/dhananjay-salwe/Attendo_API
-- DataAuth: https://github.com/dhananjay-salwe/DataAuth
-- Swayamsiddh Live: https://swayamsiddh.in
+### 🔗 Project Showcase
+[![Attendo API](https://img.shields.io/badge/Attendo%20API-View%20on%20GitHub-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhananjay-salwe/Attendo_API)
+[![DataAuth](https://img.shields.io/badge/DataAuth-View%20on%20GitHub-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhananjay-salwe/DataAuth)
+[![Swayamsiddh Live](https://img.shields.io/badge/Swayamsiddh-Live%20Website-C2410C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://swayamsiddh.in)
 
 ## 🛠️ Core Stack
 **Frontend**
@@ -77,15 +83,16 @@ flowchart LR
 ![](https://nirzak-streak-stats.vercel.app/?user=dhananjay-salwe&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjay-salwe&theme=tokyonight&hide_border=false&layout=compact)
 
-## 🎓 Education
-- B.Tech CSE (Cyber Security & Forensic), Sandip University, GPA 9.00/10
-- Diploma in Information Technology, Sandip Foundation
+## 🎓 Education & Certifications
+[![B.Tech](https://img.shields.io/badge/B.Tech-CSE%20Cyber%20Security%20%26%20Forensic-2563EB?style=for-the-badge)](#)
+[![University](https://img.shields.io/badge/Sandip%20University-Nashik-4F46E5?style=for-the-badge)](#)
+[![GPA](https://img.shields.io/badge/GPA-9.00%2F10-7C3AED?style=for-the-badge)](#)
+[![Diploma](https://img.shields.io/badge/Diploma-Information%20Technology-0F766E?style=for-the-badge)](#)
 
-## 🏅 Certifications
-- Java Full Stack Development - The Kiran Academy (2025)
-- Network & Web Application Security - Sandip University (2024)
-- Cyber Security Level 1 - Sandip University (2023)
+[![Certification](https://img.shields.io/badge/Certification-Java%20Full%20Stack%20Development-C2410C?style=for-the-badge)](#)
+[![Certification](https://img.shields.io/badge/Certification-Network%20%26%20Web%20Application%20Security-0369A1?style=for-the-badge)](#)
+[![Certification](https://img.shields.io/badge/Certification-Cyber%20Security%20Level%201-7E22CE?style=for-the-badge)](#)
 
 ---
 
-**Open to:** Freelance, remote projects, and impactful collaborations.
+**Open to:** freelance projects, remote roles, and impactful collaborations.
