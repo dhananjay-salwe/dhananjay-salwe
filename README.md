@@ -25,9 +25,9 @@ flowchart LR
     A[Dhananjay] --> B[Full Stack Products]
     A --> C[AI + Computer Vision]
     A --> D[Secure API Systems]
-    B --> E[React | Angular | Laravel | Spring]
-    C --> F[OpenCV | Liveness | Anti-spoofing]
-    D --> G[Auth | Domain Security | Rate Limits]
+    B --> E[React, Angular, Laravel, Spring]
+    C --> F[OpenCV, Liveness, Anti-spoofing]
+    D --> G[Auth, Domain Security, Rate Limits]
 ```
 
 ## 📊 Impact (Quick View)
@@ -83,11 +83,7 @@ flowchart LR
 ![](https://nirzak-streak-stats.vercel.app/?user=dhananjay-salwe&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjay-salwe&theme=tokyonight&hide_border=false&layout=compact)
 
-## 🎓 Education & Certifications
-[![B.Tech](https://img.shields.io/badge/B.Tech-CSE%20Cyber%20Security%20%26%20Forensic-2563EB?style=for-the-badge)](#)
-[![University](https://img.shields.io/badge/Sandip%20University-Nashik-4F46E5?style=for-the-badge)](#)
-[![GPA](https://img.shields.io/badge/GPA-9.00%2F10-7C3AED?style=for-the-badge)](#)
-[![Diploma](https://img.shields.io/badge/Diploma-Information%20Technology-0F766E?style=for-the-badge)](#)
+## 🎓 Certifications
 
 [![Certification](https://img.shields.io/badge/Certification-Java%20Full%20Stack%20Development-C2410C?style=for-the-badge)](#)
 [![Certification](https://img.shields.io/badge/Certification-Network%20%26%20Web%20Application%20Security-0369A1?style=for-the-badge)](#)
